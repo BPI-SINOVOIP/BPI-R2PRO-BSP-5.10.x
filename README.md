@@ -1,2 +1,2 @@
 # BPI-R2PRO-BSP-5.10.x
-Supports Banana Pi BPI-R2PRO-BSP
+Supports Banana Pi BPI-R2PRO-BSP, kernel 5.10 
